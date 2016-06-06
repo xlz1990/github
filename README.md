@@ -6,8 +6,8 @@
 
 
 下面是一张图片
-！[那些年，我们一起追的女孩](http://www.sinaimg.cn/dy/slidenews/24_img
-/2015_01/54274_1154891_173655.jpg)
+![那些年，我们一起追的女孩](http://p3.so.qhimg.com/sdr/512_768
+_/t013bc8a52e04bb9903.jpg)
 ```java
 public static void main (String [] args){
 	System.out.println("Hello,Gitsub");
